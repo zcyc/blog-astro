@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "json-to-go"
 pubDatetime: 2021-12-15T08:55:41.000Z
-updatedDate: 2022-08-30T06:18:16.000Z
+upDatetime: 2022-08-30T06:18:16.000Z
 featured: false
 draft: false
 ---

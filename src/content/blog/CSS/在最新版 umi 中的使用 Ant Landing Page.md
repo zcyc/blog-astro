@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "antd-landing-umi"
 pubDatetime: 2020-08-24T03:05:21.000Z
-updatedDate: 2021-06-26T10:56:58.000Z
+upDatetime: 2021-06-26T10:56:58.000Z
 featured: false
 draft: false
 ---

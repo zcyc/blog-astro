@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "macos-dev-env-init"
 pubDatetime: 2021-12-21T02:54:13.000Z
-updatedDate: 2022-01-17T09:53:47.000Z
+upDatetime: 2022-01-17T09:53:47.000Z
 featured: false
 draft: false
 ---

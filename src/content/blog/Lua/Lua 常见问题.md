@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "lua"
 pubDatetime: 2022-06-28T17:14:46.000Z
-updatedDate: 2022-06-28T17:16:14.000Z
+upDatetime: 2022-06-28T17:16:14.000Z
 featured: false
 draft: false
 ---

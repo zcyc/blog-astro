@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "macos-rider-run-razor-project-error"
 pubDatetime: 2020-08-11T02:31:51.000Z
-updatedDate: 2021-10-16T04:38:54.000Z
+upDatetime: 2021-10-16T04:38:54.000Z
 featured: false
 draft: false
 ---

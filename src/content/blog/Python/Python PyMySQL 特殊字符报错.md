@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "python-pymysql"
 pubDatetime: 2022-06-28T17:42:37.000Z
-updatedDate: 2022-06-28T17:47:57.000Z
+upDatetime: 2022-06-28T17:47:57.000Z
 featured: false
 draft: false
 ---

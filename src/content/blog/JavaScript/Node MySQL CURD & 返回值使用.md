@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "Node MySQL CURD & 返回值使用"
 pubDatetime: 2019-07-04T02:12:12.000Z
-updatedDate: 2022-07-28T03:34:49.000Z
+upDatetime: 2022-07-28T03:34:49.000Z
 featured: false
 draft: false
 ---

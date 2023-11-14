@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "uni-app-offline-packaging"
 pubDatetime: 2021-06-15T16:57:40.000Z
-updatedDate: 2022-07-01T16:23:41.000Z
+upDatetime: 2022-07-01T16:23:41.000Z
 featured: false
 draft: false
 ---

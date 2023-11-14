@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "Egg.js sequelize.js TypeScript 踩坑"
 pubDatetime: 2019-07-15T09:09:21.000Z
-updatedDate: 2020-12-02T13:41:37.000Z
+upDatetime: 2020-12-02T13:41:37.000Z
 featured: false
 draft: false
 ---

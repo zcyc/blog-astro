@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "jeecg"
 pubDatetime: 2021-03-23T07:45:46.000Z
-updatedDate: 2023-04-23T05:51:29.000Z
+upDatetime: 2023-04-23T05:51:29.000Z
 featured: false
 draft: false
 ---

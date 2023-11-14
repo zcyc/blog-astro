@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "typeScript"
 pubDatetime: 2019-07-04T08:20:42.000Z
-updatedDate: 2020-12-02T13:43:22.000Z
+upDatetime: 2020-12-02T13:43:22.000Z
 featured: false
 draft: false
 ---

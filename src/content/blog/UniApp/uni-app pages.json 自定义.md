@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "uni-app-pages-custom"
 pubDatetime: 2022-06-28T17:54:55.000Z
-updatedDate: 2022-11-10T03:00:04.000Z
+upDatetime: 2022-11-10T03:00:04.000Z
 featured: false
 draft: false
 ---

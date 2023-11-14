@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "macos-keytool-keystore"
 pubDatetime: 2020-10-19T08:48:26.000Z
-updatedDate: 2022-05-31T07:39:14.000Z
+upDatetime: 2022-05-31T07:39:14.000Z
 featured: false
 draft: false
 ---

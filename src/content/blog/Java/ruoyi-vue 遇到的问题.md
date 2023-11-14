@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "ruoyi-vue"
 pubDatetime: 2021-05-12T01:28:38.000Z
-updatedDate: 2022-06-27T18:43:18.000Z
+upDatetime: 2022-06-27T18:43:18.000Z
 featured: false
 draft: false
 ---

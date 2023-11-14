@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "uni-app-get-location"
 pubDatetime: 2022-06-28T18:12:21.000Z
-updatedDate: 2022-06-28T18:13:21.000Z
+upDatetime: 2022-06-28T18:13:21.000Z
 featured: false
 draft: false
 ---

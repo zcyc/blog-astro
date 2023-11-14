@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "uni-app-wechat-follow-component"
 pubDatetime: 2021-06-22T15:12:16.000Z
-updatedDate: 2022-07-01T16:23:06.000Z
+upDatetime: 2022-07-01T16:23:06.000Z
 featured: false
 draft: false
 ---

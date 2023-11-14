@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "vitesse"
 pubDatetime: 2022-01-21T16:18:49.000Z
-updatedDate: 2022-07-01T16:12:02.000Z
+upDatetime: 2022-07-01T16:12:02.000Z
 featured: false
 draft: false
 ---

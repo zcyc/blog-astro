@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "dotnet-cefsharp-config"
 pubDatetime: 2023-04-12T05:50:37.000Z
-updatedDate: 2023-04-12T05:59:36.000Z
+upDatetime: 2023-04-12T05:59:36.000Z
 featured: false
 draft: false
 ---

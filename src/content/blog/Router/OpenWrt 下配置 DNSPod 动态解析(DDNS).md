@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "openwrt-dnspod-ddns"
 pubDatetime: 2020-12-16T08:21:07.000Z
-updatedDate: 2022-06-27T18:47:02.000Z
+upDatetime: 2022-06-27T18:47:02.000Z
 featured: false
 draft: false
 ---

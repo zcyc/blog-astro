@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "docker-jenkins"
 pubDatetime: 2022-08-02T06:04:36.000Z
-updatedDate: 2022-08-02T06:20:14.000Z
+upDatetime: 2022-08-02T06:20:14.000Z
 featured: false
 draft: false
 ---

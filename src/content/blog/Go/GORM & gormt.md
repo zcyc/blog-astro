@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "gorm"
 pubDatetime: 2022-06-02T06:24:38.000Z
-updatedDate: 2023-03-13T06:31:46.000Z
+upDatetime: 2023-03-13T06:31:46.000Z
 featured: false
 draft: false
 ---

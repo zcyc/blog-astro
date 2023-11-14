@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "brew-node-version-control"
 pubDatetime: 2020-09-26T06:28:41.000Z
-updatedDate: 2021-01-10T16:33:04.000Z
+upDatetime: 2021-01-10T16:33:04.000Z
 featured: false
 draft: false
 ---

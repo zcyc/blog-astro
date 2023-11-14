@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "kali-parallels-tools"
 pubDatetime: 2020-10-19T06:54:11.000Z
-updatedDate: 2022-07-01T16:11:45.000Z
+upDatetime: 2022-07-01T16:11:45.000Z
 featured: false
 draft: false
 ---

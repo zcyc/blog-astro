@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "web-copy-to-clipboard"
 pubDatetime: 2022-04-18T03:46:02.000Z
-updatedDate: 2022-11-07T08:17:14.000Z
+upDatetime: 2022-11-07T08:17:14.000Z
 featured: false
 draft: false
 ---

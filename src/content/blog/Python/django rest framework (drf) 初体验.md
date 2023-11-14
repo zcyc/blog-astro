@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "drf"
 pubDatetime: 2022-06-30T10:17:15.000Z
-updatedDate: 2022-07-28T03:40:32.000Z
+upDatetime: 2022-07-28T03:40:32.000Z
 featured: false
 draft: false
 ---

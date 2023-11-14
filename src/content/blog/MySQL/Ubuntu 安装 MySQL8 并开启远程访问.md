@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "ubuntu-mysql"
 pubDatetime: 2021-05-10T10:33:53.000Z
-updatedDate: 2022-06-28T18:24:00.000Z
+upDatetime: 2022-06-28T18:24:00.000Z
 featured: false
 draft: false
 ---

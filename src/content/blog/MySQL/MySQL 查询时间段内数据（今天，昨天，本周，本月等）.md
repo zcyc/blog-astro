@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "mysql-query-time-period-data"
 pubDatetime: 2019-07-08T01:53:59.000Z
-updatedDate: 2020-12-02T13:42:23.000Z
+upDatetime: 2020-12-02T13:42:23.000Z
 featured: false
 draft: false
 ---

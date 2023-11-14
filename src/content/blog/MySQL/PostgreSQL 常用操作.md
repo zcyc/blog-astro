@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "postgresql"
 pubDatetime: 2022-06-24T12:39:29.000Z
-updatedDate: 2022-08-30T08:47:18.000Z
+upDatetime: 2022-08-30T08:47:18.000Z
 featured: false
 draft: false
 ---

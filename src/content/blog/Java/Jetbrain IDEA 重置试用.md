@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "jetbrain-idea-reset-trial"
 pubDatetime: 2021-04-27T03:20:28.000Z
-updatedDate: 2021-08-17T08:25:43.000Z
+upDatetime: 2021-08-17T08:25:43.000Z
 featured: false
 draft: false
 ---

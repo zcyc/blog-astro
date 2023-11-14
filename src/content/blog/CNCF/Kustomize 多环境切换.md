@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "kustomize"
 pubDatetime: 2022-07-31T11:08:17.000Z
-updatedDate: 2022-09-17T15:53:55.000Z
+upDatetime: 2022-09-17T15:53:55.000Z
 featured: false
 draft: false
 ---

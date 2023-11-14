@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "go-sprintf"
 pubDatetime: 2023-02-07T04:29:47.000Z
-updatedDate: 2023-02-07T04:31:34.000Z
+upDatetime: 2023-02-07T04:31:34.000Z
 featured: false
 draft: false
 ---

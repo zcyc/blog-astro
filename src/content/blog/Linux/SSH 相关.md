@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "ssh"
 pubDatetime: 2021-01-08T06:27:22.000Z
-updatedDate: 2022-08-02T01:59:05.000Z
+upDatetime: 2022-08-02T01:59:05.000Z
 featured: false
 draft: false
 ---

@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "ubuntu-crmeb"
 pubDatetime: 2022-03-10T11:14:53.000Z
-updatedDate: 2022-06-10T06:43:56.000Z
+upDatetime: 2022-06-10T06:43:56.000Z
 featured: false
 draft: false
 ---

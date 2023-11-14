@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "mysql"
 pubDatetime: 2022-04-04T10:41:56.000Z
-updatedDate: 2022-08-30T08:30:04.000Z
+upDatetime: 2022-08-30T08:30:04.000Z
 featured: false
 draft: false
 ---

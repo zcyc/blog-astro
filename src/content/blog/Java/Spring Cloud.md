@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "spring-cloud"
 pubDatetime: 2022-07-03T14:42:39.000Z
-updatedDate: 2022-07-05T11:50:28.000Z
+upDatetime: 2022-07-05T11:50:28.000Z
 featured: false
 draft: false
 ---

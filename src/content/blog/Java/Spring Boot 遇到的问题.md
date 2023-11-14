@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "spring-boot"
 pubDatetime: 2020-12-05T14:29:53.000Z
-updatedDate: 2022-07-28T03:31:40.000Z
+upDatetime: 2022-07-28T03:31:40.000Z
 featured: false
 draft: false
 ---

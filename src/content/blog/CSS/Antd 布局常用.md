@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "antd-layout"
 pubDatetime: 2021-05-03T06:52:32.000Z
-updatedDate: 2022-05-30T14:43:57.000Z
+upDatetime: 2022-05-30T14:43:57.000Z
 featured: false
 draft: false
 ---

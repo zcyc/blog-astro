@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "uni-app-vue-iconfont"
 pubDatetime: 2020-12-22T02:48:56.000Z
-updatedDate: 2022-01-17T09:59:00.000Z
+upDatetime: 2022-01-17T09:59:00.000Z
 featured: false
 draft: false
 ---

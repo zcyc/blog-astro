@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "ssh-key-copy-not-work"
 pubDatetime: 2022-06-28T17:11:11.000Z
-updatedDate: 2022-11-14T14:50:08.000Z
+upDatetime: 2022-11-14T14:50:08.000Z
 featured: false
 draft: false
 ---

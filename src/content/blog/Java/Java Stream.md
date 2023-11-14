@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "java-stream"
 pubDatetime: 2020-11-14T12:36:00.000Z
-updatedDate: 2022-07-28T02:28:59.000Z
+upDatetime: 2022-07-28T02:28:59.000Z
 featured: false
 draft: false
 ---

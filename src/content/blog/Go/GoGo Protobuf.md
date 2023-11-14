@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "gogoproto"
 pubDatetime: 2022-06-02T06:25:47.000Z
-updatedDate: 2022-06-13T10:28:46.000Z
+upDatetime: 2022-06-13T10:28:46.000Z
 featured: false
 draft: false
 ---

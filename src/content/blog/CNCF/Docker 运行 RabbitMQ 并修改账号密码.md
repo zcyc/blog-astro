@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "docker-rabbitmq"
 pubDatetime: 2021-01-08T13:51:03.000Z
-updatedDate: 2022-07-01T16:10:09.000Z
+upDatetime: 2022-07-01T16:10:09.000Z
 featured: false
 draft: false
 ---

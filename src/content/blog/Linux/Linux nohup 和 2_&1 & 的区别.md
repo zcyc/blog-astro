@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "linux-nohup"
 pubDatetime: 2021-11-14T13:09:52.000Z
-updatedDate: 2022-05-20T02:36:39.000Z
+upDatetime: 2022-05-20T02:36:39.000Z
 featured: false
 draft: false
 ---

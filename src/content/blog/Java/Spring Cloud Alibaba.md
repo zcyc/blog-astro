@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "spring-cloud-alibaba"
 pubDatetime: 2021-11-08T10:06:55.000Z
-updatedDate: 2022-07-05T15:59:12.000Z
+upDatetime: 2022-07-05T15:59:12.000Z
 featured: false
 draft: false
 ---

@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "eggjs"
 pubDatetime: 2019-07-20T10:02:38.000Z
-updatedDate: 2022-06-30T11:24:30.000Z
+upDatetime: 2022-06-30T11:24:30.000Z
 featured: false
 draft: false
 ---

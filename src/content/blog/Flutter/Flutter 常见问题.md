@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "flutter"
 pubDatetime: 2020-10-22T07:58:04.000Z
-updatedDate: 2021-08-11T17:27:05.000Z
+upDatetime: 2021-08-11T17:27:05.000Z
 featured: false
 draft: false
 ---

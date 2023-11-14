@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "go-notes"
 pubDatetime: 2021-12-16T09:14:59.000Z
-updatedDate: 2022-02-08T11:23:14.000Z
+upDatetime: 2022-02-08T11:23:14.000Z
 featured: false
 draft: false
 ---

@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "java-parse-address"
 pubDatetime: 2020-12-21T15:23:25.000Z
-updatedDate: 2021-08-03T15:35:07.000Z
+upDatetime: 2021-08-03T15:35:07.000Z
 featured: false
 draft: false
 ---

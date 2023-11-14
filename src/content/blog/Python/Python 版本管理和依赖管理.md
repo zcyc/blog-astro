@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "python-version-and-dependency-management"
 pubDatetime: 2022-07-01T15:56:44.000Z
-updatedDate: 2022-07-28T03:39:51.000Z
+upDatetime: 2022-07-28T03:39:51.000Z
 featured: false
 draft: false
 ---

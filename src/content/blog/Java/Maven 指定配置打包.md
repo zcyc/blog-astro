@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "maven-build"
 pubDatetime: 2021-06-26T09:28:59.000Z
-updatedDate: 2022-06-29T19:15:27.000Z
+upDatetime: 2022-06-29T19:15:27.000Z
 featured: false
 draft: false
 ---

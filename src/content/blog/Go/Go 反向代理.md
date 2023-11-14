@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "go-reverse-proxy"
 pubDatetime: 2022-08-18T03:09:38.000Z
-updatedDate: 2022-08-30T06:09:21.000Z
+upDatetime: 2022-08-30T06:09:21.000Z
 featured: false
 draft: false
 ---

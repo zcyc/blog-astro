@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "antd-tailwind"
 pubDatetime: 2021-05-03T08:59:17.000Z
-updatedDate: 2021-05-06T15:08:13.000Z
+upDatetime: 2021-05-06T15:08:13.000Z
 featured: false
 draft: false
 ---

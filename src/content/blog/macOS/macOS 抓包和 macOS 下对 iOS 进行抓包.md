@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "macos-wireshark-ios"
 pubDatetime: 2021-08-11T16:53:03.000Z
-updatedDate: 2021-12-15T08:55:33.000Z
+upDatetime: 2021-12-15T08:55:33.000Z
 featured: false
 draft: false
 ---

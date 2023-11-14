@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "nginx"
 pubDatetime: 2021-05-24T05:12:47.000Z
-updatedDate: 2022-11-07T09:52:32.000Z
+upDatetime: 2022-11-07T09:52:32.000Z
 featured: false
 draft: false
 ---

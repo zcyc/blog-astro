@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "electron-build"
 pubDatetime: 2020-11-03T03:20:27.000Z
-updatedDate: 2021-06-26T10:39:59.000Z
+upDatetime: 2021-06-26T10:39:59.000Z
 featured: false
 draft: false
 ---

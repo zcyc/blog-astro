@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "protobuf3"
 pubDatetime: 2019-07-05T02:28:47.000Z
-updatedDate: 2020-12-02T13:43:09.000Z
+upDatetime: 2020-12-02T13:43:09.000Z
 featured: false
 draft: false
 ---

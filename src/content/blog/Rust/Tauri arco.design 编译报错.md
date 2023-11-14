@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "tauri-arco"
 pubDatetime: 2022-03-03T14:57:20.000Z
-updatedDate: 2022-03-07T02:28:49.000Z
+upDatetime: 2022-03-07T02:28:49.000Z
 featured: false
 draft: false
 ---

@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "mybatis-plus"
 pubDatetime: 2020-11-13T13:55:03.000Z
-updatedDate: 2021-06-26T10:32:57.000Z
+upDatetime: 2021-06-26T10:32:57.000Z
 featured: false
 draft: false
 ---

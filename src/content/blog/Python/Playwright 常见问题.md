@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "playwright"
 pubDatetime: 2023-02-15T15:28:46.000Z
-updatedDate: 2023-02-15T15:33:19.000Z
+upDatetime: 2023-02-15T15:33:19.000Z
 featured: false
 draft: false
 ---

@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "linux-tar-gz"
 pubDatetime: 2021-06-25T11:07:50.000Z
-updatedDate: 2022-08-04T10:20:00.000Z
+upDatetime: 2022-08-04T10:20:00.000Z
 featured: false
 draft: false
 ---

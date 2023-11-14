@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "python-setup"
 pubDatetime: 2022-12-02T08:58:41.000Z
-updatedDate: 2022-12-02T08:59:26.000Z
+upDatetime: 2022-12-02T08:59:26.000Z
 featured: false
 draft: false
 ---

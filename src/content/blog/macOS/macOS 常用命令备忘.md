@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "macos"
 pubDatetime: 2021-11-12T07:15:05.000Z
-updatedDate: 2022-06-29T15:45:18.000Z
+upDatetime: 2022-06-29T15:45:18.000Z
 featured: false
 draft: false
 ---

@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "terminal-powershell-oh-my-posh"
 pubDatetime: 2022-11-07T08:19:08.000Z
-updatedDate: 2022-11-07T09:36:44.000Z
+upDatetime: 2022-11-07T09:36:44.000Z
 featured: false
 draft: false
 ---

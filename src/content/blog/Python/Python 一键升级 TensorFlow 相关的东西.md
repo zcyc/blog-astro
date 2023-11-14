@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "python-update-tensorflow"
 pubDatetime: 2021-08-03T13:11:16.000Z
-updatedDate: 2022-11-10T02:58:43.000Z
+upDatetime: 2022-11-10T02:58:43.000Z
 featured: false
 draft: false
 ---

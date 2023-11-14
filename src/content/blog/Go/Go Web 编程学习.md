@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "go-web"
 pubDatetime: 2021-12-22T06:38:20.000Z
-updatedDate: 2021-12-23T04:58:37.000Z
+upDatetime: 2021-12-23T04:58:37.000Z
 featured: false
 draft: false
 ---

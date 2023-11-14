@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "electron-install"
 pubDatetime: 2020-07-09T17:26:57.000Z
-updatedDate: 2023-03-08T07:42:34.000Z
+upDatetime: 2023-03-08T07:42:34.000Z
 featured: false
 draft: false
 ---

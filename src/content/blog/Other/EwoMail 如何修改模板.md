@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "ewomail-modify-template"
 pubDatetime: 2022-11-07T09:54:34.000Z
-updatedDate: 2022-11-14T14:32:11.000Z
+upDatetime: 2022-11-14T14:32:11.000Z
 featured: false
 draft: false
 ---

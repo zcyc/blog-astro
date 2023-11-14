@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "antd-bulma"
 pubDatetime: 2021-05-03T06:50:58.000Z
-updatedDate: 2023-01-30T07:21:54.000Z
+upDatetime: 2023-01-30T07:21:54.000Z
 featured: false
 draft: false
 ---

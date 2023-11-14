@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "html-background-image"
 pubDatetime: 2021-06-01T07:31:56.000Z
-updatedDate: 2022-06-27T18:39:22.000Z
+upDatetime: 2022-06-27T18:39:22.000Z
 featured: false
 draft: false
 ---

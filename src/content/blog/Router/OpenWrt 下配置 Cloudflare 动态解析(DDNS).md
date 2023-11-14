@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "openwrt-cloudflare-ddns"
 pubDatetime: 2020-12-16T08:17:50.000Z
-updatedDate: 2022-06-29T18:58:16.000Z
+upDatetime: 2022-06-29T18:58:16.000Z
 featured: false
 draft: false
 ---

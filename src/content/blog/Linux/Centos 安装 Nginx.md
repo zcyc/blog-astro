@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "centos-nginx"
 pubDatetime: 2022-04-18T02:18:09.000Z
-updatedDate: 2022-05-20T02:46:44.000Z
+upDatetime: 2022-05-20T02:46:44.000Z
 featured: false
 draft: false
 ---

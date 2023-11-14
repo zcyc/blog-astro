@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "vitesse-tsx"
 pubDatetime: 2022-01-15T16:56:59.000Z
-updatedDate: 2022-11-18T01:22:08.000Z
+upDatetime: 2022-11-18T01:22:08.000Z
 featured: false
 draft: false
 ---

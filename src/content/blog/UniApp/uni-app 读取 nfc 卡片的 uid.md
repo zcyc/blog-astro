@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "uni-app-read-nfc-uid"
 pubDatetime: 2021-05-24T07:50:28.000Z
-updatedDate: 2022-02-07T07:31:40.000Z
+upDatetime: 2022-02-07T07:31:40.000Z
 featured: false
 draft: false
 ---

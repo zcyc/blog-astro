@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "macos-l2tp-no-response"
 pubDatetime: 2021-01-09T17:03:09.000Z
-updatedDate: 2022-01-17T09:58:24.000Z
+upDatetime: 2022-01-17T09:58:24.000Z
 featured: false
 draft: false
 ---

@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "postman Pre-request Script 常用操作"
 pubDatetime: 2022-05-30T06:12:42.000Z
-updatedDate: 2022-06-28T10:19:51.000Z
+upDatetime: 2022-06-28T10:19:51.000Z
 featured: false
 draft: false
 ---

@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "python"
 pubDatetime: 2023-02-15T13:59:57.000Z
-updatedDate: 2023-02-15T14:24:49.000Z
+upDatetime: 2023-02-15T14:24:49.000Z
 featured: false
 draft: false
 ---

@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "component-atom-css"
 pubDatetime: 2021-01-13T07:37:35.000Z
-updatedDate: 2022-11-10T03:01:58.000Z
+upDatetime: 2022-11-10T03:01:58.000Z
 featured: false
 draft: false
 ---

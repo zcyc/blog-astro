@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "docker-mysql"
 pubDatetime: 2020-09-14T13:28:08.000Z
-updatedDate: 2021-09-29T04:32:36.000Z
+upDatetime: 2021-09-29T04:32:36.000Z
 featured: false
 draft: false
 ---

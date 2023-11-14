@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "go-problems"
 pubDatetime: 2021-12-23T12:12:45.000Z
-updatedDate: 2022-07-02T10:37:59.000Z
+upDatetime: 2022-07-02T10:37:59.000Z
 featured: false
 draft: false
 ---

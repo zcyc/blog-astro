@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "Node TypeScript gRPC 笔记"
 pubDatetime: 2019-07-16T01:54:07.000Z
-updatedDate: 2022-06-30T11:24:53.000Z
+upDatetime: 2022-06-30T11:24:53.000Z
 featured: false
 draft: false
 ---

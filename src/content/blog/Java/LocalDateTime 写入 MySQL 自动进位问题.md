@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "localdatetime-mysql"
 pubDatetime: 2021-09-28T08:15:29.000Z
-updatedDate: 2023-04-23T05:53:14.000Z
+upDatetime: 2023-04-23T05:53:14.000Z
 featured: false
 draft: false
 ---

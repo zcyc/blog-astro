@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "skynet"
 pubDatetime: 2022-06-28T17:16:31.000Z
-updatedDate: 2022-11-10T02:55:44.000Z
+upDatetime: 2022-11-10T02:55:44.000Z
 featured: false
 draft: false
 ---

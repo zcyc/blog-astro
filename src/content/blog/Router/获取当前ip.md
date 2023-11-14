@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "get-ip"
 pubDatetime: 2023-09-11T03:36:10.000Z
-updatedDate: 2023-09-11T03:46:35.000Z
+upDatetime: 2023-09-11T03:46:35.000Z
 featured: false
 draft: false
 ---

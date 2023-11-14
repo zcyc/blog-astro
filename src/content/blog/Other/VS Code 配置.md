@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "vscode-config"
 pubDatetime: 2022-10-21T14:21:59.000Z
-updatedDate: 2023-10-13T18:27:08.000Z
+upDatetime: 2023-10-13T18:27:08.000Z
 featured: false
 draft: false
 ---

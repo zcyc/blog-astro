@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "macos-menu-bar-time-gray"
 pubDatetime: 2022-01-13T07:49:14.000Z
-updatedDate: 2022-06-10T06:46:54.000Z
+upDatetime: 2022-06-10T06:46:54.000Z
 featured: false
 draft: false
 ---

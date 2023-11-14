@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "go-vscode"
 pubDatetime: 2022-10-18T10:03:11.000Z
-updatedDate: 2022-11-08T03:46:34.000Z
+upDatetime: 2022-11-08T03:46:34.000Z
 featured: false
 draft: false
 ---

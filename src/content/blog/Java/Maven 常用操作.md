@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "maven"
 pubDatetime: 2021-11-14T13:10:46.000Z
-updatedDate: 2022-06-27T18:34:50.000Z
+upDatetime: 2022-06-27T18:34:50.000Z
 featured: false
 draft: false
 ---

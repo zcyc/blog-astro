@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "consul"
 pubDatetime: 2021-11-11T15:57:23.000Z
-updatedDate: 2022-07-28T02:28:16.000Z
+upDatetime: 2022-07-28T02:28:16.000Z
 featured: false
 draft: false
 ---

@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "goframe"
 pubDatetime: 2022-07-17T10:03:43.000Z
-updatedDate: 2022-11-10T02:27:33.000Z
+upDatetime: 2022-11-10T02:27:33.000Z
 featured: false
 draft: false
 ---

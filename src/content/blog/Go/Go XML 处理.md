@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "go-xml"
 pubDatetime: 2022-09-19T08:37:52.000Z
-updatedDate: 2022-09-24T15:04:25.000Z
+upDatetime: 2022-09-24T15:04:25.000Z
 featured: false
 draft: false
 ---

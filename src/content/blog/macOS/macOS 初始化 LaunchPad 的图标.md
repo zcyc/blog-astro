@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "macos-launchpad-reset"
 pubDatetime: 2021-08-17T08:23:04.000Z
-updatedDate: 2022-05-20T02:52:23.000Z
+upDatetime: 2022-05-20T02:52:23.000Z
 featured: false
 draft: false
 ---

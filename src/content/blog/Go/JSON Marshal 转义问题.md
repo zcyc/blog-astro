@@ -7,7 +7,7 @@ tags:
 ogImage: ""
 postSlug: "json-marshal"
 pubDatetime: 2023-01-09T07:20:43.000Z
-updatedDate: 2023-01-09T07:22:23.000Z
+upDatetime: 2023-01-09T07:22:23.000Z
 featured: false
 draft: false
 ---
